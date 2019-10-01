@@ -8,7 +8,7 @@ Secure Linear Regression in the Semi-Honest Two-Party Setting. More details on t
 
 ### Building Secure-ML
 ```
-git clone <https://github.com/shreya-28/Secure-ML.git>.
+git clone https://github.com/shreya-28/Secure-ML.git
 cd Secure-ML
 mkdir build
 cd build
